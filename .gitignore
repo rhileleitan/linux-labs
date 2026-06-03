@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.pyc
+venv/
+
+
+# Logs
+*.log
+
+
+# Credenciais
+.env
+.env.*
+credentials.txt
+passwords.txt
+tokens.txt
+secrets.txt
+
+
+# Chaves
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+
+# Banco de dados local
+*.db
+*.sqlite
+
+
+# Backup
+*.bak
+*.old
